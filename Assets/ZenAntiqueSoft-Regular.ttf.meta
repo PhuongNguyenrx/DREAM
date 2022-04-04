@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 82720df2431c0774cbf8cea87e4e974a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zen Antique Soft
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: de06f6dc8ee8107438a97b1e09d49138, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
